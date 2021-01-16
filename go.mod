@@ -1,4 +1,4 @@
-module github.com/khanhhongpham/check-memory-usage
+module github.com/khanhhongpham/sensu-check-memory-usage
 
 go 1.14
 
